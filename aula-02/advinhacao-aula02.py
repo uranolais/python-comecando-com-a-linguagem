@@ -10,8 +10,8 @@ chute = int(input("Digite o seu número: "))
 print("Você digitou", chute)
 
 if(numero_secreto == chute):
-    print("Você acertou")
+    print("Você acertou!")
 else:
-    print("Você errou")
+    print("Você errou!")
 
-print("Fim de Jogo")
+print("Fim de Jogo!")
